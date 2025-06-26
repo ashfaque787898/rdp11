@@ -3,7 +3,7 @@ Make tweaks, leave comments, and share with others to edit at the same time.
 NO THANKSUSE THE APP
 
 RDP
-name: Cl
+name: RDP11
 
 
 on: [push, workflow_dispatch]
